@@ -61,9 +61,18 @@
 ---
 
 ## 🛠️ Tech Stack
-> *(Optional: Include this section if you'd like to highlight the technology used — e.g., Next.js, Node.js, Firebase, etc.)*
 
----
+### 🌐 Frontend
+- [Next.js](https://nextjs.org/) — React-based framework
+- [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS
+- [shadcn/ui](https://ui.shadcn.com/) — Accessible UI components
+- [TypeScript](https://www.typescriptlang.org/) — Typed JavaScript
+
+### 🔗 Blockchain / Smart Contracts
+- [Aptos Blockchain](https://aptos.dev/) — L1 for fast, secure transactions
+- [Move Language](https://move-language.github.io/move/) — Smart contract programming
+- Aptos Wallet Integration (via `@aptos-labs/wallet-adapter-react`)
+- NFT support for Event Badges or Passes---
 
 ## 📢 Coming Soon
 - Mobile App Support  
